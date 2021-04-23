@@ -42,8 +42,8 @@ Using multiple input tags and/or select dropdowns, write JavaScript code so the 
 1) date/time
 2) city
 3) state
-3) country
-#) shape
+4) country
+5) shape
 
 
 Good luck!
